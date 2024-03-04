@@ -50,7 +50,7 @@ class _HomeScreenState extends State<HomeScreen>
                   text: "Monthly",
                 )
               ]),
-          Expanded(flex: 2, child: MonthlyPaycheck())
+          // Expanded(flex: 2, child: MonthlyPaycheck())
         ],
       ),
     );

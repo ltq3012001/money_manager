@@ -1,6 +1,13 @@
 {
-    "10" : [
-            {"type" : "Income", "category" : "salary", "value" : 999, "note" : "Income salary"},
-            {"type" : "Expense", "category" : "groceries", "value" : 999, "note" : "food"}
+    "monthly" : {
+        "10" : [
+                {"type" : "Income", "category" : "salary", "value" : 999, "note" : "Income salary"},
+                {"type" : "Expense", "category" : "groceries", "value" : 999, "note" : "food"}
+            ]
+    },
+    "3" : {
+        "4" : [
+            {"type" : "Expense", "category" : "groceries", "value" : 99, "note" : "zzz"}
         ]
+    } 
 }
