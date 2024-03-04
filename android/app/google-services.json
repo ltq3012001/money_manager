@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944008632722",
+    "project_id": "qtech-money-manager",
+    "storage_bucket": "qtech-money-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944008632722:android:bf1c319a24ee9f485dc94b",
+        "android_client_info": {
+          "package_name": "com.qtech.moneymanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBneJiLD23Y2MuEgDF3LmZzhOlCrzmmMpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

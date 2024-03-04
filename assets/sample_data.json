@@ -1,0 +1,43 @@
+{
+    "2023" : {
+        "10" : {
+            "3" : [
+                {"type" : "Income", "category" : "salary", "value" : 999, "note" : "Income salary"},
+                {"type" : "Expense", "category" : "groceries", "value" : 999, "note" : "food"}
+            ],
+            "14" : [
+                {"type" : "Expense", "category" : "shopping", "value" : 999, "note" : "shopping"}
+            ]
+        }
+    },
+    "2024" : {
+        "1" : {
+            "3" : [
+                {"type" : "Expense", "category" : "groceries", "value" : 999, "note" : "food"}
+            ],
+            "14" : [
+                {"type" : "Expense", "category" : "shopping", "value" : 999, "note" : "shopping"}
+            ]
+        },
+        "2" : {
+            "2" : [
+                {"type" : "Income", "category" : "salary", "value" : 999, "note" : "Income salary"},
+                {"type" : "Expense", "category" : "groceries", "value" : 999, "note" : "food"},
+                {"type" : "Expense", "category" : "groceries", "value" : 999, "note" : "food"},
+                {"type" : "Expense", "category" : "groceries", "value" : 999, "note" : "food"},
+                {"type" : "Expense", "category" : "groceries", "value" : 999, "note" : "food"},
+                {"type" : "Expense", "category" : "groceries", "value" : 999, "note" : "food"},
+                {"type" : "Expense", "category" : "groceries", "value" : 999, "note" : "food"},
+                {"type" : "Expense", "category" : "groceries", "value" : 999, "note" : "food"},
+                {"type" : "Expense", "category" : "groceries", "value" : 999, "note" : "food"}
+            ],
+            "3" : [
+                {"type" : "Income", "category" : "salary", "value" : 999, "note" : "Income salary"},
+                {"type" : "Expense", "category" : "groceries", "value" : 999, "note" : "food"}
+            ],
+            "14" : [
+                {"type" : "Expense", "category" : "shopping", "value" : 999, "note" : "shopping"}
+            ]
+        }
+    }
+}

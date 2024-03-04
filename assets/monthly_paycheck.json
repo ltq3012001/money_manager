@@ -1,0 +1,6 @@
+{
+    "10" : [
+            {"type" : "Income", "category" : "salary", "value" : 999, "note" : "Income salary"},
+            {"type" : "Expense", "category" : "groceries", "value" : 999, "note" : "food"}
+        ]
+}
