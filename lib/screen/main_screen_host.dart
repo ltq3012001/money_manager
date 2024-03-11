@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 // screens
 import 'package:money_manager/screen/chart_screen.dart';
+import 'package:money_manager/screen/edit_screen.dart';
 import 'package:money_manager/screen/home_screen.dart';
 import 'package:money_manager/screen/more_screen.dart';
 import 'package:money_manager/screen/wallets_screen.dart';
@@ -41,7 +42,11 @@ class _MainScreenHostState extends State<MainScreenHost> {
       floatingActionButton: FloatingActionButton(
           shape: const CircleBorder(),
           backgroundColor: secondaryDark,
-          onPressed: (() => {}),
+          onPressed: (() {
+            Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) {return const EditScreen();}));
+            }),
           child: const Icon(
             Icons.add,
             color: Colors.white,

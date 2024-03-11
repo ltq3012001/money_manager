@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:money_manager/screen/home_view/daily_view.dart';
-import 'package:money_manager/screen/home_view/monthly_paycheck.dart';
 import 'package:money_manager/screen/home_view/monthly_view.dart';
 
 enum ViewType { daily, monthly }

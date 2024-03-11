@@ -1,0 +1,10 @@
+{
+    "Income" : [
+        {"name" : "Salary", "color": "red"},
+        {"name" : "Other", "color": "blue"}
+    ],
+    "Expense" : [
+        {"name" : "groceries", "color": "yellow"},
+        {"name" : "shopping", "color": "pink"}
+    ]
+}
